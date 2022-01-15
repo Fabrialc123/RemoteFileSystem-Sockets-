@@ -15,3 +15,6 @@ For client side:
 Where SERVERIP and SERVERPORT refers to the machine used as server (IP and port, respectively), and FILEPATH is the file to be uploaded in the server.
 
 The uploaded files in the server side are extended with ".new".
+
+
+DEVELOPED BY Fabrizio Alcaraz Escobar
